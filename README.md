@@ -5,15 +5,20 @@ React will be mainly used to create beautiful and interactive UI. The applicatio
 MongoDB is used to save transactions(which are successful) for remembering the payments.
 
 # Screenshots:
-![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/37bc7c00-9fde-485c-ab4b-16c0615456a6)
-![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/22876fde-0ffa-45d4-9ef1-afec1bd40a69)
-![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/5c34585e-d9ca-4dae-bdf2-ee3312b0cf34)
-![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/7a463db0-c481-4be7-98ba-c409b7fa8025)
-![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/97c234b3-0daf-4e3f-80a4-7a4f990f711f)
-![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/51db4938-ee7f-452e-8eaf-89d37fde80c7)
+![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/8cc40b22-1f52-4002-93c1-e7933d0951b3)
+![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/d2eb313d-9792-4125-98fa-1ea06295b2c0)
+![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/298e64ba-52e5-4724-8ba8-2e8a9f3d55da)
+![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/8a8f3640-ce99-4342-b014-ac3b7beabc50)
+![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/57aee0d7-cc71-45dd-bc53-58bf11aaf664)
+![image](https://github.com/career-tokens/RazorPayIntegration/assets/134730030/62b70fcc-e49f-44a3-a431-80ebb6e55e4f)
+
+
 
 # Video of Project:
 
+https://github.com/career-tokens/RazorPayIntegration/assets/134730030/181b14e1-2439-40a3-9714-9dab26ddb00f
 
-https://github.com/career-tokens/RazorPayIntegration/assets/134730030/105fcc2b-8af9-4576-8683-1c7a8fa74419
+
+
+
 
